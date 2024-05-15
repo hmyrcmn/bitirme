@@ -1,0 +1,1472 @@
+[
+        {
+                "name": "Mehmet Aydın",
+                "industry": "Manufacturing, Automotive, Robotics",
+                "competence": [
+                        "Product Development",
+                        "Supply Chain Management",
+                        "Quality Control",
+                        "Operations Optimization"
+                ],
+                "focus": [
+                        "Robotics",
+                        "Automotive"
+                ]
+        },
+        {
+                "name": "Selma Yılmaz",
+                "industry": "Fashion, Retail, E-commerce",
+                "competence": [
+                        "Brand Management",
+                        "Market Research",
+                        "E-commerce Strategy",
+                        "Visual Merchandising"
+                ],
+                "focus": [
+                        "Fashion",
+                        "E-commerce"
+                ]
+        },
+        {
+                "name": "Ali Demir",
+                "industry": "Renewable Energy, Environmental Engineering",
+                "competence": [
+                        "Renewable Energy Systems",
+                        "Environmental Impact Assessment",
+                        "Sustainable Development",
+                        "Energy Efficiency"
+                ],
+                "focus": [
+                        "Renewable Energy",
+                        "Environmental Engineering"
+                ]
+        },
+        {
+                "name": "Ebru Kaya",
+                "industry": "Food and Beverage, Hospitality",
+                "competence": [
+                        "Menu Development",
+                        "Quality Assurance",
+                        "Customer Service",
+                        "Hospitality Management"
+                ],
+                "focus": [
+                        "Food and Beverage",
+                        "Hospitality"
+                ]
+        },
+        {
+                "name": "Ahmet Yıldız",
+                "industry": "Information Technology, Software Development",
+                "competence": [
+                        "Software Architecture",
+                        "Database Management",
+                        "Agile Methodologies",
+                        "Cloud Computing"
+                ],
+                "focus": [
+                        "Information Technology",
+                        "Software Development"
+                ]
+        },
+        {
+                "name": "Ayşe Şahin",
+                "industry": "Healthcare, Pharmaceuticals",
+                "competence": [
+                        "Clinical Research",
+                        "Regulatory Affairs",
+                        "Pharmaceutical Marketing",
+                        "Healthcare Policy"
+                ],
+                "focus": [
+                        "Healthcare",
+                        "Pharmaceuticals"
+                ]
+        },
+        {
+                "name": "Mehmet Kaya",
+                "industry": "Finance, Investment Banking",
+                "competence": [
+                        "Financial Analysis",
+                        "Investment Management",
+                        "Risk Assessment",
+                        "Financial Modeling"
+                ],
+                "focus": [
+                        "Finance",
+                        "Investment Banking"
+                ]
+        },
+        {
+                "name": "Fatma Demir",
+                "industry": "Education, EdTech",
+                "competence": [
+                        "Curriculum Development",
+                        "Educational Technology",
+                        "Teacher Training",
+                        "E-Learning Platforms"
+                ],
+                "focus": [
+                        "Education",
+                        "EdTech"
+                ]
+        },
+        {
+                "name": "Ali Yılmaz",
+                "industry": "Real Estate, Property Management",
+                "competence": [
+                        "Real Estate Development",
+                        "Property Valuation",
+                        "Tenant Relations",
+                        "Facility Management"
+                ],
+                "focus": [
+                        "Real Estate",
+                        "Property Management"
+                ]
+        },
+        {
+                "name": "Ayşe Yıldırım",
+                "industry": "Fashion, Apparel",
+                "competence": [
+                        "Fashion Design",
+                        "Textile Manufacturing",
+                        "Brand Management",
+                        "Supply Chain Management"
+                ],
+                "focus": [
+                        "Fashion",
+                        "Apparel"
+                ]
+        },
+        {
+                "name": "Mustafa Şahin",
+                "industry": "Food & Beverage, Hospitality",
+                "competence": [
+                        "Restaurant Management",
+                        "Food Service",
+                        "Menu Development",
+                        "Customer Experience"
+                ],
+                "focus": [
+                        "Food & Beverage",
+                        "Hospitality"
+                ]
+        },
+        {
+                "name": "Zeynep Çelik",
+                "industry": "Marketing, Advertising",
+                "competence": [
+                        "Digital Marketing",
+                        "Brand Strategy",
+                        "Market Research",
+                        "Advertising Campaigns"
+                ],
+                "focus": [
+                        "Marketing",
+                        "Advertising"
+                ]
+        },
+        {
+                "name": "Emre Aksoy",
+                "industry": "Technology, Software Development",
+                "competence": [
+                        "Software Engineering",
+                        "Web Development",
+                        "Mobile App Development",
+                        "Cloud Computing"
+                ],
+                "focus": [
+                        "Technology",
+                        "Software Development"
+                ]
+        },
+        {
+                "name": "Selin Korkmaz",
+                "industry": "Healthcare, Pharmaceuticals",
+                "competence": [
+                        "Clinical Research",
+                        "Pharmaceutical Sales",
+                        "Healthcare Consulting",
+                        "Regulatory Affairs"
+                ],
+                "focus": [
+                        "Healthcare",
+                        "Pharmaceuticals"
+                ]
+        },
+        {
+                "name": "Eren Demir",
+                "industry": "Finance, Wealth Management",
+                "competence": [
+                        "Investment Advisory",
+                        "Portfolio Management",
+                        "Retirement Planning",
+                        "Financial Planning"
+                ],
+                "focus": [
+                        "Finance",
+                        "Wealth Management"
+                ]
+        },
+        {
+                "name": "Gizem Doğan",
+                "industry": "Media, Entertainment",
+                "competence": [
+                        "Content Creation",
+                        "Digital Media Strategy",
+                        "Entertainment Law",
+                        "Event Management"
+                ],
+                "focus": [
+                        "Media",
+                        "Entertainment"
+                ]
+        },
+        {
+                "name": "Cemal Öztürk",
+                "industry": "Automotive, Manufacturing",
+                "competence": [
+                        "Automotive Engineering",
+                        "Manufacturing Process Optimization",
+                        "Supply Chain Logistics",
+                        "Quality Control"
+                ],
+                "focus": [
+                        "Automotive",
+                        "Manufacturing"
+                ]
+        },
+        {
+                "name": "Bengü Deniz",
+                "industry": "Education, Language Learning",
+                "competence": [
+                        "Language Teaching",
+                        "Curriculum Development",
+                        "Online Learning Platforms",
+                        "Educational Technology"
+                ],
+                "focus": [
+                        "Education",
+                        "Language Learning"
+                ]
+        },
+        {
+                "name": "Ahmet Kaya",
+                "industry": "Tourism, Travel",
+                "competence": [
+                        "Tour Operations",
+                        "Destination Management",
+                        "Travel Agency Sales",
+                        "Tourism Marketing"
+                ],
+                "focus": [
+                        "Tourism",
+                        "Travel"
+                ]
+        },
+        {
+                "name": "Elif Arslan",
+                "industry": "Architecture, Interior Design",
+                "competence": [
+                        "Architectural Design",
+                        "Interior Decoration",
+                        "Space Planning",
+                        "Sustainable Architecture"
+                ],
+                "focus": [
+                        "Architecture",
+                        "Interior Design"
+                ]
+        },
+        {
+                "name": "Mehmet Yılmaz",
+                "industry": "Construction, Real Estate",
+                "competence": [
+                        "Construction Management",
+                        "Real Estate Development",
+                        "Project Planning",
+                        "Property Management"
+                ],
+                "focus": [
+                        "Construction",
+                        "Real Estate"
+                ]
+        },
+        {
+                "name": "Aylin Demirtaş",
+                "industry": "Retail, E-commerce",
+                "competence": [
+                        "Merchandising",
+                        "E-commerce Strategy",
+                        "Retail Operations",
+                        "Customer Experience Management"
+                ],
+                "focus": [
+                        "Retail",
+                        "E-commerce"
+                ]
+        },
+        {
+                "name": "Berkay Kaya",
+                "industry": "Energy, Renewable Energy",
+                "competence": [
+                        "Energy Policy",
+                        "Renewable Energy Technologies",
+                        "Energy Efficiency",
+                        "Power Plant Operations"
+                ],
+                "focus": [
+                        "Energy",
+                        "Renewable Energy"
+                ]
+        },
+        {
+                "name": "Derya Özkan",
+                "industry": "Human Resources, Talent Management",
+                "competence": [
+                        "Recruitment",
+                        "Performance Management",
+                        "Training & Development",
+                        "Employee Relations"
+                ],
+                "focus": [
+                        "Human Resources",
+                        "Talent Management"
+                ]
+        },
+        {
+                "name": "Selim Şahin",
+                "industry": "Telecommunications, Networking",
+                "competence": [
+                        "Telecommunications Engineering",
+                        "Network Design",
+                        "Wireless Technologies",
+                        "Telecom Infrastructure"
+                ],
+                "focus": [
+                        "Telecommunications",
+                        "Networking"
+                ]
+        },
+        {
+                "name": "Gülşah Çetin",
+                "industry": "Environmental Science, Sustainability",
+                "competence": [
+                        "Environmental Policy",
+                        "Sustainable Development",
+                        "Environmental Impact Assessment",
+                        "Climate Change Mitigation"
+                ],
+                "focus": [
+                        "Environmental Science",
+                        "Sustainability"
+                ]
+        },
+        {
+                "name": "Murat Özdemir",
+                "industry": "Logistics, Supply Chain Management",
+                "competence": [
+                        "Logistics Operations",
+                        "Inventory Management",
+                        "Supply Chain Optimization",
+                        "Transportation Planning"
+                ],
+                "focus": [
+                        "Logistics",
+                        "Supply Chain Management"
+                ]
+        },
+        {
+                "name": "Deniz Doğru",
+                "industry": "Marketing, Digital Marketing",
+                "competence": [
+                        "Marketing Strategy",
+                        "Content Marketing",
+                        "Social Media Advertising",
+                        "Search Engine Optimization"
+                ],
+                "focus": [
+                        "Marketing",
+                        "Digital Marketing"
+                ]
+        },
+        {
+                "name": "Barış Akın",
+                "industry": "Finance, Investment Banking",
+                "competence": [
+                        "Investment Analysis",
+                        "Financial Modeling",
+                        "Mergers & Acquisitions",
+                        "Asset Management"
+                ],
+                "focus": [
+                        "Finance",
+                        "Investment Banking"
+                ]
+        },
+        {
+                "name": "Nilgün Güler",
+                "industry": "Education, Educational Technology",
+                "competence": [
+                        "Educational Leadership",
+                        "Instructional Design",
+                        "E-learning Platforms",
+                        "Educational Technology Integration"
+                ],
+                "focus": [
+                        "Education",
+                        "Educational Technology"
+                ]
+        },
+        {
+                "name": "Kaan Arıkan",
+                "industry": "Information Technology, Cybersecurity",
+                "competence": [
+                        "Cybersecurity Strategy",
+                        "Network Security",
+                        "Incident Response",
+                        "Security Compliance"
+                ],
+                "focus": [
+                        "Information Technology",
+                        "Cybersecurity"
+                ]
+        },
+        {
+                "name": "Dilek Yıldız",
+                "industry": "Healthcare, Medical Devices",
+                "competence": [
+                        "Medical Device Engineering",
+                        "Regulatory Compliance",
+                        "Quality Assurance",
+                        "Clinical Trials Management"
+                ],
+                "focus": [
+                        "Healthcare",
+                        "Medical Devices"
+                ]
+        },
+        {
+                "name": "Tolga Durmuş",
+                "industry": "Consulting, Management Consulting",
+                "competence": [
+                        "Business Strategy",
+                        "Organizational Development",
+                        "Change Management",
+                        "Strategic Planning"
+                ],
+                "focus": [
+                        "Consulting",
+                        "Management Consulting"
+                ]
+        },
+        {
+                "name": "Seçil Karadağ",
+                "industry": "Legal, Corporate Law",
+                "competence": [
+                        "Corporate Governance",
+                        "Commercial Law",
+                        "Intellectual Property",
+                        "Contract Negotiation"
+                ],
+                "focus": [
+                        "Legal",
+                        "Corporate Law"
+                ]
+        },
+        {
+                "name": "Emir Şahin",
+                "industry": "Media, Content Creation",
+                "competence": [
+                        "Video Production",
+                        "Graphic Design",
+                        "Content Strategy",
+                        "Creative Direction"
+                ],
+                "focus": [
+                        "Media",
+                        "Content Creation"
+                ]
+        },
+        {
+                "name": "Büşra Atalay",
+                "industry": "Agriculture, Agribusiness",
+                "competence": [
+                        "Crop Management",
+                        "Agribusiness Development",
+                        "Sustainable Agriculture",
+                        "Food Processing"
+                ],
+                "focus": [
+                        "Agriculture",
+                        "Agribusiness"
+                ]
+        },
+        {
+                "name": "Serkan Kurt",
+                "industry": "Automotive, Electric Vehicles",
+                "competence": [
+                        "Electric Vehicle Engineering",
+                        "Battery Technology",
+                        "Charging Infrastructure",
+                        "Automotive Design"
+                ],
+                "focus": [
+                        "Automotive",
+                        "Electric Vehicles"
+                ]
+        },
+        {
+                "name": "Zehra Tekin",
+                "industry": "Fashion, Sustainable Fashion",
+                "competence": [
+                        "Fashion Sustainability",
+                        "Ethical Fashion",
+                        "Textile Recycling",
+                        "Circular Fashion"
+                ],
+                "focus": [
+                        "Fashion",
+                        "Sustainable Fashion"
+                ]
+        },
+        {
+                "name": "Cihan Yılmaz",
+                "industry": "Tourism, Destination Management",
+                "competence": [
+                        "Destination Marketing",
+                        "Tourism Development",
+                        "Hospitality Management",
+                        "Tourism Policy"
+                ],
+                "focus": [
+                        "Tourism",
+                        "Destination Management"
+                ]
+        },
+        {
+                "name": "Elif Şimşek",
+                "industry": "Information Technology, Software Development",
+                "competence": [
+                        "Software Engineering",
+                        "Web Development",
+                        "Mobile App Development",
+                        "Database Management"
+                ],
+                "focus": [
+                        "Information Technology",
+                        "Software Development"
+                ]
+        },
+        {
+                "name": "Mert Demir",
+                "industry": "Finance, Financial Analysis",
+                "competence": [
+                        "Financial Planning",
+                        "Investment Analysis",
+                        "Risk Management",
+                        "Financial Modeling"
+                ],
+                "focus": [
+                        "Finance",
+                        "Financial Analysis"
+                ]
+        },
+        {
+                "name": "Ayşe Yıldız",
+                "industry": "Marketing, Brand Management",
+                "competence": [
+                        "Brand Strategy",
+                        "Digital Marketing",
+                        "Marketing Analytics",
+                        "Product Launch"
+                ],
+                "focus": [
+                        "Marketing",
+                        "Brand Management"
+                ]
+        },
+        {
+                "name": "Berkay Şahin",
+                "industry": "Consulting, Strategy Consulting",
+                "competence": [
+                        "Strategic Planning",
+                        "Market Research",
+                        "Business Analysis",
+                        "Management Consulting"
+                ],
+                "focus": [
+                        "Consulting",
+                        "Strategy Consulting"
+                ]
+        },
+        {
+                "name": "Deniz Demir",
+                "industry": "Human Resources, Talent Acquisition",
+                "competence": [
+                        "Recruitment",
+                        "Talent Management",
+                        "Employee Relations",
+                        "Performance Management"
+                ],
+                "focus": [
+                        "Human Resources",
+                        "Talent Acquisition"
+                ]
+        },
+        {
+                "name": "Ece Kaya",
+                "industry": "Education, Curriculum Development",
+                "competence": [
+                        "Curriculum Design",
+                        "Instructional Design",
+                        "Educational Leadership",
+                        "Teacher Training"
+                ],
+                "focus": [
+                        "Education",
+                        "Curriculum Development"
+                ]
+        },
+        {
+                "name": "Fatih Can",
+                "industry": "Healthcare, Hospital Management",
+                "competence": [
+                        "Healthcare Administration",
+                        "Quality Improvement",
+                        "Patient Safety",
+                        "Healthcare Policy"
+                ],
+                "focus": [
+                        "Healthcare",
+                        "Hospital Management"
+                ]
+        },
+        {
+                "name": "Gamze Kara",
+                "industry": "Media, Journalism",
+                "competence": [
+                        "News Reporting",
+                        "Feature Writing",
+                        "Digital Journalism",
+                        "Investigative Journalism"
+                ],
+                "focus": [
+                        "Media",
+                        "Journalism"
+                ]
+        },
+        {
+                "name": "Hakan Yılmaz",
+                "industry": "Real Estate, Property Management",
+                "competence": [
+                        "Real Estate Sales",
+                        "Property Marketing",
+                        "Lease Negotiation",
+                        "Facility Management"
+                ],
+                "focus": [
+                        "Real Estate",
+                        "Property Management"
+                ]
+        },
+        {
+                "name": "İrem Eren",
+                "industry": "Environmental Science, Environmental Policy",
+                "competence": [
+                        "Environmental Impact Assessment",
+                        "Policy Analysis",
+                        "Climate Change Adaptation",
+                        "Sustainability Planning"
+                ],
+                "focus": [
+                        "Environmental Science",
+                        "Environmental Policy"
+                ]
+        },
+        {
+                "name": "Jale Tekin",
+                "industry": "Retail, Merchandising",
+                "competence": [
+                        "Visual Merchandising",
+                        "Retail Buying",
+                        "Inventory Management",
+                        "Store Operations"
+                ],
+                "focus": [
+                        "Retail",
+                        "Merchandising"
+                ]
+        },
+        {
+                "name": "Kerem Aslan",
+                "industry": "Engineering, Civil Engineering",
+                "competence": [
+                        "Structural Design",
+                        "Construction Management",
+                        "Geotechnical Engineering",
+                        "Transportation Engineering"
+                ],
+                "focus": [
+                        "Engineering",
+                        "Civil Engineering"
+                ]
+        },
+        {
+                "name": "Leyla Demirci",
+                "industry": "Technology, Product Management",
+                "competence": [
+                        "Product Development",
+                        "Product Strategy",
+                        "Agile Methodology",
+                        "User Experience Design"
+                ],
+                "focus": [
+                        "Technology",
+                        "Product Management"
+                ]
+        },
+        {
+                "name": "Mehmet Ali Şahin",
+                "industry": "Automotive, Automotive Engineering",
+                "competence": [
+                        "Vehicle Design",
+                        "Automotive Manufacturing",
+                        "Automotive Electronics",
+                        "Automotive Safety"
+                ],
+                "focus": [
+                        "Automotive",
+                        "Automotive Engineering"
+                ]
+        },
+        {
+                "name": "Nurhan Gür",
+                "industry": "Fashion, Fashion Design",
+                "competence": [
+                        "Fashion Sketching",
+                        "Pattern Making",
+                        "Textile Design",
+                        "Fashion Illustration"
+                ],
+                "focus": [
+                        "Fashion",
+                        "Fashion Design"
+                ]
+        },
+        {
+                "name": "Özge Öztürk",
+                "industry": "Tourism, Hospitality Management",
+                "competence": [
+                        "Hotel Operations",
+                        "Tourism Marketing",
+                        "Event Planning",
+                        "Guest Relations"
+                ],
+                "focus": [
+                        "Tourism",
+                        "Hospitality Management"
+                ]
+        },
+        {
+                "name": "Pelin Kocabaş",
+                "industry": "Agriculture, Agroforestry",
+                "competence": [
+                        "Crop Management",
+                        "Agroforestry Systems",
+                        "Soil Conservation",
+                        "Agroecology"
+                ],
+                "focus": [
+                        "Agriculture",
+                        "Agroforestry"
+                ]
+        },
+        {
+                "name": "Rıza Atıcı",
+                "industry": "Logistics, Supply Chain Management",
+                "competence": [
+                        "Supply Chain Optimization",
+                        "Logistics Planning",
+                        "Inventory Control",
+                        "Distribution Management"
+                ],
+                "focus": [
+                        "Logistics",
+                        "Supply Chain Management"
+                ]
+        },
+        {
+                "name": "Şebnem Erdoğan",
+                "industry": "Telecommunications, Network Security",
+                "competence": [
+                        "Network Architecture",
+                        "Information Security",
+                        "Cyber Threat Analysis",
+                        "Firewall Management"
+                ],
+                "focus": [
+                        "Telecommunications",
+                        "Network Security"
+                ]
+        },
+        {
+                "name": "Tuncay Yıldırım",
+                "industry": "Energy, Renewable Energy",
+                "competence": [
+                        "Solar Energy Systems",
+                        "Wind Energy Technology",
+                        "Hydropower Engineering",
+                        "Bioenergy Production"
+                ],
+                "focus": [
+                        "Energy",
+                        "Renewable Energy"
+                ]
+        },
+        {
+                "name": "Umut Kaya",
+                "industry": "Entertainment, Event Management",
+                "competence": [
+                        "Event Planning",
+                        "Artist Management",
+                        "Venue Coordination",
+                        "Entertainment Booking"
+                ],
+                "focus": [
+                        "Entertainment",
+                        "Event Management"
+                ]
+        },
+        {
+                "name": "Vildan Yaman",
+                "industry": "Healthcare, Pharmaceutical Sales",
+                "competence": [
+                        "Sales Strategy",
+                        "Product Promotion",
+                        "Market Analysis",
+                        "Client Relationship Management"
+                ],
+                "focus": [
+                        "Healthcare",
+                        "Pharmaceutical Sales"
+                ]
+        },
+        {
+                "name": "Yiğit Aksoy",
+                "industry": "Legal, Intellectual Property Law",
+                "competence": [
+                        "Patent Law",
+                        "Trademark Registration",
+                        "Copyright Protection",
+                        "Licensing Agreements"
+                ],
+                "focus": [
+                        "Legal",
+                        "Intellectual Property Law"
+                ]
+        },
+        {
+                "name": "Zeynep Sönmez",
+                "industry": "Media, Digital Media Production",
+                "competence": [
+                        "Video Editing",
+                        "Motion Graphics",
+                        "Sound Design",
+                        "Content Creation"
+                ],
+                "focus": [
+                        "Media",
+                        "Digital Media Production"
+                ]
+        },
+        {
+                "name": "Ahmet Çetin",
+                "industry": "Technology, Artificial Intelligence",
+                "competence": [
+                        "Machine Learning",
+                        "Natural Language Processing",
+                        "Computer Vision",
+                        "Deep Learning"
+                ],
+                "focus": [
+                        "Technology",
+                        "Artificial Intelligence"
+                ]
+        },
+        {
+                "name": "Bengü İnan",
+                "industry": "Marketing, Content Marketing",
+                "competence": [
+                        "Content Strategy",
+                        "SEO Optimization",
+                        "Social Media Management",
+                        "Influencer Marketing"
+                ],
+                "focus": [
+                        "Marketing",
+                        "Content Marketing"
+                ]
+        },
+        {
+                "name": "Cemal Karadağ",
+                "industry": "Finance, Investment Management",
+                "competence": [
+                        "Portfolio Management",
+                        "Financial Analysis",
+                        "Investment Strategy",
+                        "Risk Assessment"
+                ],
+                "focus": [
+                        "Finance",
+                        "Investment Management"
+                ]
+        },
+        {
+                "name": "Derya Korkmaz",
+                "industry": "Consulting, Change Management",
+                "competence": [
+                        "Organizational Change",
+                        "Leadership Development",
+                        "Culture Transformation",
+                        "Stakeholder Engagement"
+                ],
+                "focus": [
+                        "Consulting",
+                        "Change Management"
+                ]
+        },
+        {
+                "name": "Elif Şen",
+                "industry": "Information Technology, Cybersecurity",
+                "competence": [
+                        "Network Security",
+                        "Cyber Threat Intelligence",
+                        "Security Operations",
+                        "Incident Response"
+                ],
+                "focus": [
+                        "Information Technology",
+                        "Cybersecurity"
+                ]
+        },
+        {
+                "name": "Mehmet Yılmaz",
+                "industry": "Engineering, Mechanical Engineering",
+                "competence": [
+                        "Product Design",
+                        "Mechanical Analysis",
+                        "CAD Modeling",
+                        "Finite Element Analysis"
+                ],
+                "focus": [
+                        "Engineering",
+                        "Mechanical Engineering"
+                ]
+        },
+        {
+                "name": "Ayşe Demir",
+                "industry": "Marketing, Digital Marketing",
+                "competence": [
+                        "Social Media Marketing",
+                        "Content Marketing",
+                        "Email Marketing",
+                        "Search Engine Optimization"
+                ],
+                "focus": [
+                        "Marketing",
+                        "Digital Marketing"
+                ]
+        },
+        {
+                "name": "Cem Kaya",
+                "industry": "Finance, Investment Banking",
+                "competence": [
+                        "Mergers and Acquisitions",
+                        "Financial Modeling",
+                        "Valuation Analysis",
+                        "Capital Markets"
+                ],
+                "focus": [
+                        "Finance",
+                        "Investment Banking"
+                ]
+        },
+        {
+                "name": "Selin Öztürk",
+                "industry": "Education, Educational Technology",
+                "competence": [
+                        "E-Learning Development",
+                        "Learning Management Systems",
+                        "Instructional Technology",
+                        "Educational Games"
+                ],
+                "focus": [
+                        "Education",
+                        "Educational Technology"
+                ]
+        },
+        {
+                "name": "Burak Şahin",
+                "industry": "Healthcare, Nursing",
+                "competence": [
+                        "Patient Care",
+                        "Clinical Documentation",
+                        "Medication Administration",
+                        "Wound Management"
+                ],
+                "focus": [
+                        "Healthcare",
+                        "Nursing"
+                ]
+        },
+        {
+                "name": "Deniz Yıldız",
+                "industry": "Media, Film Production",
+                "competence": [
+                        "Cinematography",
+                        "Film Editing",
+                        "Scriptwriting",
+                        "Production Management"
+                ],
+                "focus": [
+                        "Media",
+                        "Film Production"
+                ]
+        },
+        {
+                "name": "Berkay Yıldırım",
+                "industry": "Real Estate, Commercial Real Estate",
+                "competence": [
+                        "Commercial Property Sales",
+                        "Leasing Negotiation",
+                        "Market Research",
+                        "Property Management"
+                ],
+                "focus": [
+                        "Real Estate",
+                        "Commercial Real Estate"
+                ]
+        },
+        {
+                "name": "Nilay Kara",
+                "industry": "Environmental Science, Environmental Engineering",
+                "competence": [
+                        "Environmental Impact Assessment",
+                        "Waste Management",
+                        "Air Quality Monitoring",
+                        "Environmental Compliance"
+                ],
+                "focus": [
+                        "Environmental Science",
+                        "Environmental Engineering"
+                ]
+        },
+        {
+                "name": "Zeynep Çelik",
+                "industry": "Retail, E-commerce",
+                "competence": [
+                        "Online Merchandising",
+                        "Customer Experience Optimization",
+                        "Inventory Management",
+                        "Digital Marketing"
+                ],
+                "focus": [
+                        "Retail",
+                        "E-commerce"
+                ]
+        },
+        {
+                "name": "Emre Yıldırım",
+                "industry": "Automotive, Electric Vehicles",
+                "competence": [
+                        "Electric Vehicle Design",
+                        "Battery Technology",
+                        "Charging Infrastructure",
+                        "Vehicle Integration"
+                ],
+                "focus": [
+                        "Automotive",
+                        "Electric Vehicles"
+                ]
+        },
+        {
+                "name": "Ceren Koç",
+                "industry": "Fashion, Fashion Merchandising",
+                "competence": [
+                        "Fashion Buying",
+                        "Trend Forecasting",
+                        "Retail Analytics",
+                        "Visual Merchandising"
+                ],
+                "focus": [
+                        "Fashion",
+                        "Fashion Merchandising"
+                ]
+        },
+        {
+                "name": "Ali Eren",
+                "industry": "Tourism, Destination Management",
+                "competence": [
+                        "Tourism Planning",
+                        "Hospitality Development",
+                        "Cultural Heritage Management",
+                        "Sustainable Tourism"
+                ],
+                "focus": [
+                        "Tourism",
+                        "Destination Management"
+                ]
+        },
+        {
+                "name": "Can Yılmaz",
+                "industry": "Agriculture, Precision Farming",
+                "competence": [
+                        "Remote Sensing",
+                        "Crop Monitoring",
+                        "Precision Irrigation",
+                        "Farm Automation"
+                ],
+                "focus": [
+                        "Agriculture",
+                        "Precision Farming"
+                ]
+        },
+        {
+                "name": "Ebru Kaya",
+                "industry": "Logistics, Freight Forwarding",
+                "competence": [
+                        "International Shipping",
+                        "Customs Clearance",
+                        "Supply Chain Visibility",
+                        "Freight Brokerage"
+                ],
+                "focus": [
+                        "Logistics",
+                        "Freight Forwarding"
+                ]
+        },
+        {
+                "name": "Gökhan Aydın",
+                "industry": "Telecommunications, Wireless Communication",
+                "competence": [
+                        "RF Engineering",
+                        "Wireless Network Planning",
+                        "Telecom Infrastructure",
+                        "5G Technology"
+                ],
+                "focus": [
+                        "Telecommunications",
+                        "Wireless Communication"
+                ]
+        },
+        {
+                "name": "Aslıhan Çakır",
+                "industry": "Energy, Energy Policy",
+                "competence": [
+                        "Energy Planning",
+                        "Renewable Energy Integration",
+                        "Energy Efficiency",
+                        "Smart Grid Technology"
+                ],
+                "focus": [
+                        "Energy",
+                        "Energy Policy"
+                ]
+        },
+        {
+                "name": "Barış Güler",
+                "industry": "Architecture, Sustainable Design",
+                "competence": [
+                        "Green Building Design",
+                        "Passive Solar Design",
+                        "Energy Modeling",
+                        "Sustainable Materials"
+                ],
+                "focus": [
+                        "Architecture",
+                        "Sustainable Design"
+                ]
+        },
+        {
+                "name": "Defne Arı",
+                "industry": "Human Resources, Talent Acquisition",
+                "competence": [
+                        "Recruitment Strategy",
+                        "Employer Branding",
+                        "Candidate Assessment",
+                        "Onboarding Programs"
+                ],
+                "focus": [
+                        "Human Resources",
+                        "Talent Acquisition"
+                ]
+        },
+        {
+                "name": "Eren Demir",
+                "industry": "Construction, Project Management",
+                "competence": [
+                        "Construction Planning",
+                        "Cost Estimation",
+                        "Schedule Management",
+                        "Quality Control"
+                ],
+                "focus": [
+                        "Construction",
+                        "Project Management"
+                ]
+        },
+        {
+                "name": "Feyza Yıldız",
+                "industry": "Hospitality, Hotel Management",
+                "competence": [
+                        "Hotel Operations",
+                        "Revenue Management",
+                        "Guest Experience",
+                        "Hospitality Technology"
+                ],
+                "focus": [
+                        "Hospitality",
+                        "Hotel Management"
+                ]
+        },
+        {
+                "name": "Görkem Eren",
+                "industry": "Information Technology, Cloud Computing",
+                "competence": [
+                        "Cloud Architecture",
+                        "Virtualization",
+                        "Containerization",
+                        "Cloud Security"
+                ],
+                "focus": [
+                        "Information Technology",
+                        "Cloud Computing"
+                ]
+        },
+        {
+                "name": "Hazal Şahin",
+                "industry": "Legal, Corporate Law",
+                "competence": [
+                        "Corporate Governance",
+                        "Mergers and Acquisitions",
+                        "Commercial Contracts",
+                        "Legal Compliance"
+                ],
+                "focus": [
+                        "Legal",
+                        "Corporate Law"
+                ]
+        },
+        {
+                "name": "İpek Erdoğan",
+                "industry": "Marketing, Brand Management",
+                "competence": [
+                        "Brand Strategy",
+                        "Brand Identity",
+                        "Brand Positioning",
+                        "Brand Activation"
+                ],
+                "focus": [
+                        "Marketing",
+                        "Brand Management"
+                ]
+        },
+        {
+                "name": "Jale Türk",
+                "industry": "Media, Social Media Management",
+                "competence": [
+                        "Content Creation",
+                        "Community Management",
+                        "Influencer Collaboration",
+                        "Social Media Analytics"
+                ],
+                "focus": [
+                        "Media",
+                        "Social Media Management"
+                ]
+        },
+        {
+                "name": "Koray Alp",
+                "industry": "Engineering, Civil Engineering",
+                "competence": [
+                        "Structural Analysis",
+                        "Construction Management",
+                        "Geotechnical Engineering",
+                        "Infrastructure Design"
+                ],
+                "focus": [
+                        "Engineering",
+                        "Civil Engineering"
+                ]
+        },
+        {
+                "name": "Leyla Demirci",
+                "industry": "Fashion, Fashion Design",
+                "competence": [
+                        "Fashion Sketching",
+                        "Pattern Making",
+                        "Garment Construction",
+                        "Textile Selection"
+                ],
+                "focus": [
+                        "Fashion",
+                        "Fashion Design"
+                ]
+        },
+        {
+                "name": "Murat Kaya",
+                "industry": "Finance, Financial Planning",
+                "competence": [
+                        "Wealth Management",
+                        "Retirement Planning",
+                        "Investment Advisory",
+                        "Tax Planning"
+                ],
+                "focus": [
+                        "Finance",
+                        "Financial Planning"
+                ]
+        },
+        {
+                "name": "Nihal Erkan",
+                "industry": "Education, Curriculum Development",
+                "competence": [
+                        "Instructional Design",
+                        "Educational Assessment",
+                        "Curriculum Mapping",
+                        "Learning Outcomes"
+                ],
+                "focus": [
+                        "Education",
+                        "Curriculum Development"
+                ]
+        },
+        {
+                "name": "Onur Aydoğan",
+                "industry": "Food, Culinary Arts",
+                "competence": [
+                        "Menu Development",
+                        "Food Styling",
+                        "Recipe Creation",
+                        "Kitchen Management"
+                ],
+                "focus": [
+                        "Food",
+                        "Culinary Arts"
+                ]
+        },
+        {
+                "name": "Pınar Yavuz",
+                "industry": "Healthcare, Physical Therapy",
+                "competence": [
+                        "Rehabilitation Exercises",
+                        "Manual Therapy",
+                        "Patient Education",
+                        "Pain Management"
+                ],
+                "focus": [
+                        "Healthcare",
+                        "Physical Therapy"
+                ]
+        },
+        {
+                "name": "Rıza Doğan",
+                "industry": "Media, Digital Marketing",
+                "competence": [
+                        "Search Engine Marketing",
+                        "Content Optimization",
+                        "Email Campaigns",
+                        "Analytics Tracking"
+                ],
+                "focus": [
+                        "Media",
+                        "Digital Marketing"
+                ]
+        },
+        {
+                "name": "Şule Güneş",
+                "industry": "Retail, Merchandising",
+                "competence": [
+                        "Inventory Planning",
+                        "Visual Merchandising",
+                        "Assortment Strategy",
+                        "Sales Analysis"
+                ],
+                "focus": [
+                        "Retail",
+                        "Merchandising"
+                ]
+        },
+        {
+                "name": "Tolga Alkan",
+                "industry": "Telecommunications, Network Engineering",
+                "competence": [
+                        "Network Design",
+                        "Routing and Switching",
+                        "Wireless Networks",
+                        "Network Security"
+                ],
+                "focus": [
+                        "Telecommunications",
+                        "Network Engineering"
+                ]
+        },
+        {
+                "name": "Ümit Tuncer",
+                "industry": "Tourism, Travel Management",
+                "competence": [
+                        "Destination Marketing",
+                        "Tour Operations",
+                        "Travel Technology",
+                        "Tourism Trends"
+                ],
+                "focus": [
+                        "Tourism",
+                        "Travel Management"
+                ]
+        },
+        {
+                "name": "Veli Karakaş",
+                "industry": "Automotive, Automotive Design",
+                "competence": [
+                        "Concept Development",
+                        "Vehicle Styling",
+                        "Digital Modeling",
+                        "Design Validation"
+                ],
+                "focus": [
+                        "Automotive",
+                        "Automotive Design"
+                ]
+        },
+        {
+                "name": "Yasemin Çelik",
+                "industry": "Environmental Science, Conservation Biology",
+                "competence": [
+                        "Biodiversity Monitoring",
+                        "Habitat Restoration",
+                        "Species Conservation",
+                        "Environmental Education"
+                ],
+                "focus": [
+                        "Environmental Science",
+                        "Conservation Biology"
+                ]
+        },
+        {
+                "name": "Zeynep Yıldırım",
+                "industry": "Human Resources, Performance Management",
+                "competence": [
+                        "Employee Engagement",
+                        "Performance Appraisal",
+                        "Succession Planning",
+                        "Training and Development"
+                ],
+                "focus": [
+                        "Human Resources",
+                        "Performance Management"
+                ]
+        }
+]

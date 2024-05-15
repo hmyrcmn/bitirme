@@ -1,0 +1,1256 @@
+[
+        {
+                "name": "Adrian Thoma",
+                "industry": "IT (SW/HW/Internet) and creative industries",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Market",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Unique Selling Proposition"
+                ],
+                "CV Experience & Know How": {
+                        "Sectors": [
+                                "Cloud & Web Services",
+                                "Miscellaneous Services",
+                                "Publishing"
+                        ],
+                        "Experience": [
+                                {
+                                        "company": "Maria GmbH",
+                                        "role": "Founder",
+                                        "year": 2008,
+                                        "description": "Founded communications agency where he developed the successful explainer video format 'Simpleshow', leading to winning the 'German Online Communications Award 2011'. Simpleshow became the leading explainer video format in Europe."
+                                },
+                                {
+                                        "company": "Socialbit",
+                                        "role": "Founder",
+                                        "year": 2010,
+                                        "description": "Founded a mobile and social app agency, working with clients like SMART and DHL."
+                                },
+                                {
+                                        "company": "Sellaround GmbH",
+                                        "role": "CEO",
+                                        "year": 2010,
+                                        "description": "Led the company from its inception, through seed financing, to its acquisition by a software agency in 2013. The company was awarded 'Paypal Top 10 Innovations worldwide 2010'."
+                                },
+                                {
+                                        "company": "Institute for Business Innovation",
+                                        "role": "Partner",
+                                        "year": 2013,
+                                        "description": "Partner at the Institute for Business Innovation, focusing on melding startup culture with corporate culture for clients like Bosch and EnBW."
+                                }
+                        ],
+                        "Affiliation": "Regional representative of the German Startup Association"
+                }
+        },
+        {
+                "name": "Alois Hauk",
+                "industry": "IT (SW/HW/Internet) and creative industries; Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations"
+                ],
+                "focus": [
+                        "Clean-Tech",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Measurement Technology",
+                        "Mechatronics"
+                ],
+                "additional_focus": [
+                        "Automotive",
+                        "Clean Tech",
+                        "Photonics",
+                        "other"
+                ],
+                "additional_competence": [
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "additional_focus_areas": [
+                        "Micro Systems Technologies",
+                        "Production and Mechanical Engineering",
+                        "Semiconductor",
+                        "Data Analysis",
+                        "IT Security",
+                        "Infrastructure",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Dr. Andreas Lenz",
+                "industry": "IT (SW/HW/Internet) and creative industries",
+                "experience": "About 30 years of experience in ICT, from software development to management, usability and consulting",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Implementation and Planning",
+                        "Market",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding"
+                ],
+                "focus": [
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "IT Security",
+                        "Infrastructure",
+                        "Miscellaneous Services",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Andreas Mertens",
+                "industry": "IT (SW/HW/Internet) and creative industries",
+                "experience": "Director Zeppelin University “ZU Pioneer Port, gained experience in various management positions before and focuses on entrepreneurship and technology transfer",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ]
+        },
+        {
+                "name": "Christiane Hagmann-Steinbach",
+                "industry": "Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other",
+                "experience": "Professional Experience: 2012 - 2014 project manager at the Stuttgart Economic Development (CSR for SME) since 2007 independent consultant for SMEs and start-ups, lecturer (innovation and technology management, project management, marketing at DHBW, ZfS Universität Freiburg, Wilhelm Büchner Hochschule); More than 15 years as industry professional in innovation-/product-/project-management; new product launch, (B2B-)marketing, business management at Motorola GmbH (PMR-Division EMEA), Bosch Telecom GmbH, Robert Bosch GmbH (power tools); More than 5 years as strategy consultant at Implementa GmbH (EY group); Education: M.A. HSG (business administration), M.A Leadership in Digital Communication; business coach; Languages: German, English",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "Production and Mechanical Engineering",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Dr. Christoph Antz",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science; Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other",
+                "experience": "Dr. Christoph Antz holds a Ph.D. in physics from the University of Heidelberg and is current founder and CEO of Antz Consulting (Life Science Consulting & Management; www.antz-consulting.com). Dr. Antz is an experienced venture capitalist, entrepreneur and company manager in the fields of life sciences with special focus on drug, diagnostics and instrumentation development. His broad expertise reaches from basic research over management/administration and financing of start-up companies up to exit events like M&A or trade sale. Amongst others, he currently serves as founding Coach in different international Academic and Research institutions, helping to manage, finance and set up spin-out opportunities.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Analytics",
+                        "Environmental Technologies",
+                        "In-Vitro-Diagnostics",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Pharmaceuticals",
+                        "Red Biotechnology",
+                        "Data Analysis",
+                        "Clean-Tech"
+                ]
+        },
+        {
+                "name": "Frank Kraheberger",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science; Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other",
+                "experience": "2000 - 2014 Investment Manager Venture Capital, hands on management of technology driven high-tech startups (Clean-Tech, Automotive, Med Tech), various board seats. Since 2014 Consultant and Coach in the field of founding companies, business modelling, financing.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automotive",
+                        "Clean-Tech",
+                        "Industrial Software Solutions",
+                        "Bio Energy"
+                ]
+        },
+        {
+                "name": "Georg Hänsel",
+                "industry": "Startup Coach, consultant, business coach, ex. CEO with international high tech companies. Business driven thinking.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "IT Security",
+                        "Infrastructure",
+                        "Software"
+                ]
+        },
+        {
+                "name": "Günter Meier",
+                "industry": "Günter Meier offers growth companies expertise in corporate development and process optimization, in particular marketing /sales. He proved his experience as a serial entrepreneur with multiple exits.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Lighting and Audio",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "Micro Systems Technologies",
+                        "Production and Mechanical Engineering",
+                        "Semiconductor",
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "Infrastructure",
+                        "Software",
+                        "Telecommunications",
+                        "Med-Tech"
+                ]
+        },
+        {
+                "name": "Prof. Guido Baltes",
+                "industry": "Director Institute for Strategic Innovation & Technology Management inno-ist.org Constance University of Applied Science & CeTIM Munich • Head Research Group “Management Architecture” CeTIM Research Centre • Faculty member NiTiM PhD school on Networks, IT & Innovation Management • Teaching courses in strategic management, strategic innovation, high tech marketing & entrepreneurial leadership at the undergraduate and graduate level Professional career His professional background combines both corporate and entrepreneurial activities: Guido Baltes acts and has acted as founder and co-founder of several start-up companies, amongst others coliquio.de, Germany’s largest network for health care experts. Before joining the university, he was responsible for strategy and marketing in the management board of one of Germany’s top three IT services companies. Combining both experiences, he has supported major industrial companies in building up entrepreneurial teams, leadership practices and management systems to create and successfully launch strategic innovation in new products and services. In addition, he frequently supports and incubates start-up initiatives of his students and other entrepreneurs to help building and growing innovative companies.",
+                "competence": [
+                        "Competition",
+                        "Financial Planning and Fundraising",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Industrial Software Solutions",
+                        "Mechatronics",
+                        "Production and Mechanical Engineering",
+                        "Semiconductor",
+                        "Infrastructure",
+                        "Miscellaneous Services",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Hans-Martin Ehmann",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science; IT (SW/HW/Internet) and creative industries; Industrial Technologies for Example Electrical engineering /Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Hans- Martin Ehmann advises medium and large enterprises in the following priority areas: business development, change management, management with target agreements (Hoshin), educational management and strategic and innovative personnel policies. He coaches executives and their organizations. About four decades Mr. Ehmann has been working for corporates: As purchasing manager of Andreae-Noris-Zahn, in various HR positions at Hewlett-Packard (as business HR and Human Resources Development Manager for Germany) and as a member of the Executive Board at Wandel & Goltermann and for the enterprise development section of Drees + Sommer Group.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Lighting and Audio",
+                        "Measurement Technology",
+                        "Micro Systems Technologies",
+                        "Analytics",
+                        "Bio Energy",
+                        "Bio Informatics",
+                        "Environmental Technologies",
+                        "Industrial Biotechnologies",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Data Analysis",
+                        "IT Security",
+                        "Infrastructure",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Harald Fuchs",
+                "industry": "IT (SW/HW/Internet) and creative industries Start-ups and investors benefit from my 15 years of experience as a managing director of LBBW Venture Capital and the thus constructed network. For 10 years, I have been a board member at bwcon, one of the biggest tech networks in Germany, and am responsible for coaching & Financing. With many years of experience as a supervisor/ advisory board member I know what startups can achieve and what investors look for.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Risk management"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Industrial Software Solutions",
+                        "Mechatronics",
+                        "Micro Systems Technologies",
+                        "Production",
+                        "Mechanical Engineering",
+                        "Analytics",
+                        "Bio Energy",
+                        "Bio Informatics",
+                        "Environmental Technologies",
+                        "Industrial Biotechnologies",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Data Analysis",
+                        "IT Security",
+                        "Infrastructure",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Joaquin Soucheiron",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Multilingual Lean thinker and entrepreneur: 2 Exits, one as founder and one as coach. Accredited coach for hi-tech startups (hardware and software). Expert in continuous improvement (Toyota Production Systems) applied to sales, startups and innovative companies.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "Micro Systems Technologies",
+                        "Production and Mechanical Engineering",
+                        "Semiconductor",
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "Infrastructure",
+                        "Software",
+                        "Med-Tech"
+                ]
+        },
+        {
+                "name": "Jürgen Siegloch",
+                "industry": "IT (SW/HW/Internet) and creative industries - Master of Business Administration - 12 Years at Bertelsmann, marketing and distribution - 20 Years at Burda Direct Group , CEO and founder - Shareholder of C & S Marketing - Shareholder board member in various companies - Board of Economic Advisors of Economic Region Offenburg / Ortenau",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Risk management"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Industrial Software Solutions",
+                        "Mechatronics",
+                        "Micro Systems Technologies"
+                ]
+        },
+        {
+                "name": "Günter Meier",
+                "industry": "Günter Meier offers growth companies expertise in corporate development and process optimization, in particular marketing /sales. He proved his experience as a serial entrepreneur with multiple exits.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Lighting and Audio",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "Micro Systems Technologies",
+                        "Production and Mechanical Engineering",
+                        "Semiconductor",
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "Infrastructure",
+                        "Software",
+                        "Telecommunications",
+                        "Med-Tech"
+                ]
+        },
+        {
+                "name": "Prof. Guido Baltes",
+                "industry": "Director Institute for Strategic Innovation & Technology Management inno-ist.org Constance University of Applied Science & CeTIM Munich • Head Research Group “Management Architecture” CeTIM Research Centre • Faculty member NiTiM PhD school on Networks, IT & Innovation Management • Teaching courses in strategic management, strategic innovation, high tech marketing & entrepreneurial leadership at the undergraduate and graduate level Professional career His professional background combines both corporate and entrepreneurial activities: Guido Baltes acts and has acted as founder and co-founder of several start-up companies, amongst others coliquio.de, Germany’s largest network for health care experts. Before joining the university, he was responsible for strategy and marketing in the management board of one of Germany’s top three IT services companies. Combining both experiences, he has supported major industrial companies in building up entrepreneurial teams, leadership practices and management systems to create and successfully launch strategic innovation in new products and services. In addition, he frequently supports and incubates start-up initiatives of his students and other entrepreneurs to help building and growing innovative companies.",
+                "competence": [
+                        "Competition",
+                        "Financial Planning and Fundraising",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Industrial Software Solutions",
+                        "Mechatronics",
+                        "Production and Mechanical Engineering",
+                        "Semiconductor",
+                        "Infrastructure",
+                        "Miscellaneous Services",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Hans-Martin Ehmann",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science; IT (SW/HW/Internet) and creative industries; Industrial Technologies for Example Electrical engineering /Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Hans- Martin Ehmann advises medium and large enterprises in the following priority areas: business development, change management, management with target agreements (Hoshin), educational management and strategic and innovative personnel policies. He coaches executives and their organizations. About four decades Mr. Ehmann has been working for corporates: As purchasing manager of Andreae-Noris-Zahn, in various HR positions at Hewlett-Packard (as business HR and Human Resources Development Manager for Germany) and as a member of the Executive Board at Wandel & Goltermann and for the enterprise development section of Drees + Sommer Group.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Lighting and Audio",
+                        "Measurement Technology",
+                        "Micro Systems Technologies",
+                        "Analytics",
+                        "Bio Energy",
+                        "Bio Informatics",
+                        "Environmental Technologies",
+                        "Industrial Biotechnologies",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Data Analysis",
+                        "IT Security",
+                        "Infrastructure",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Harald Fuchs",
+                "industry": "IT (SW/HW/Internet) and creative industries Start-ups and investors benefit from my 15 years of experience as a managing director of LBBW Venture Capital and the thus constructed network. For 10 years, I have been a board member at bwcon, one of the biggest tech networks in Germany, and am responsible for coaching & Financing. With many years of experience as a supervisor/ advisory board member I know what startups can achieve and what investors look for.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Risk management"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Industrial Software Solutions",
+                        "Mechatronics",
+                        "Micro Systems Technologies",
+                        "Production",
+                        "Mechanical Engineering",
+                        "Analytics",
+                        "Bio Energy",
+                        "Bio Informatics",
+                        "Environmental Technologies",
+                        "Industrial Biotechnologies",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Data Analysis",
+                        "IT Security",
+                        "Infrastructure",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Joaquin Soucheiron",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Multilingual Lean thinker and entrepreneur: 2 Exits, one as founder and one as coach. Accredited coach for hi-tech startups (hardware and software). Expert in continuous improvement (Toyota Production Systems) applied to sales, startups and innovative companies.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "Micro Systems Technologies",
+                        "Production and Mechanical Engineering",
+                        "Semiconductor",
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "Infrastructure",
+                        "Software",
+                        "Med-Tech"
+                ]
+        },
+        {
+                "name": "Jürgen Siegloch",
+                "industry": "IT (SW/HW/Internet) and creative industries - Master of Business Administration - 12 Years at Bertelsmann, marketing and distribution - 20 Years at Burda Direct Group , CEO and founder - Shareholder of C & S Marketing - Shareholder board member in various companies - Board of Economic Advisors of Economic Region Offenburg / Ortenau",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Risk management"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Industrial Software Solutions",
+                        "Mechatronics",
+                        "Micro Systems Technologies"
+                ]
+        },
+        {
+                "name": "Stefan Kieffer",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering /Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other From 1960 till 1985, I scaled a company from 10 employees to 180 employees. The company was in the in business of measurement and control technology / fine mechanics global market leader with subsidiaries in Switzerland, France and USA. From 1985 till 2000, I was responsible for the programme \"Technology-oriented foundations of enterprises\" of the German government. Futhermore, I was responsible for all university spin-offs with venture capital - assigned by the Ministry of Education and Research. Since 1995 I am assessor in the programme \"Junge Innovatoren\" as representative of all chambers of industry and commerce. Thus, I coached about 200 High-Tech Startups. Additionally, I conduct assessment of companies of all technology fields for ISO 9001/14001/13485 certifications. Taking this range into consideration I have experience in the innovative project management of all branches in the state of Baden-Württemberg.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Electronics",
+                        "Lighting and Audio",
+                        "Production and Mechanical Engineering"
+                ]
+        },
+        {
+                "name": "Klaus Haasis",
+                "industry": "IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering /Electronic, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Klaus Haasis, born 1955, delivers a unique blend of decade-long leadership experience, person-centered consulting excellence and hypno-systemic coaching expertise, packaged within management know-how of technology sectors, the creative industry and politics. For many years now he has advised and accompanied seasoned executives, emerging talents, fledgling entrepreneurs, teams and organizations within a business, science, political and cultural environment.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Cloud & Web-Services",
+                        "Gaming",
+                        "Miscellaneous Services",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Klaus Pontius",
+                "industry": "IT (SW/HW/Internet) and creative industries Entrepreneur, Electrical Engineer, Sales Professional • Added value by the combination of engineer level solution providing and entrepreneurial abilities • More than 25 years of experience in an industry context in areas of sales, marketing and support of capital goods • Wide range of skills in sales and support channels: direct sales and direct representation, distribution for manufacturers, selling through external channels / resellers • Successful business and team building for start-up companies as well as for established brands • Design and buildup of profitable businesses beyond language and cultural borders • Extensive skills in management and development of human resources • Serial-entrepreneurship in High-Tech markets, strongly affected by significant experiences and success in management and sales • Successes as managing partner and as employed managing director of the European subsidiary of a globally acting corporate group as well as in family businesses Focus on sales, marketing, organisation, corporate finance, mergers & acquisitions in high-tech environments",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Electronics",
+                        "Lighting and Audio",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "Micro Systems Technologies",
+                        "Production and Mechanical Engineering",
+                        "Semiconductor",
+                        "Data Analysis",
+                        "Infrastructure",
+                        "Miscellaneous Services",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications",
+                        "Analytics",
+                        "Laboratory Automation",
+                        "Med-Tech"
+                ]
+        },
+        {
+                "name": "Klaus Würtenberger",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other commercial and investment banker by professional education, previously CFO/COO and Investor of Berlin Heart, Berlin coach, consultant and investor specialising in start-up businesses and educated companies with a high emphasis into the life science industry",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Analytics",
+                        "Bio Energy",
+                        "Bio Informatics",
+                        "Environmental Technologies",
+                        "In-Vitro-Diagnostics",
+                        "Industrial Biotechnologies",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Pharmaceuticals",
+                        "Red Biotechnology",
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Electronics",
+                        "Measurement Technology",
+                        "Mechatronics"
+                ]
+        },
+        {
+                "name": "Lothar Bopp",
+                "industry": "Many years of professional experience as a manager and CFO at several companies (Bosch, Eon, Voith, Hansa). Since 4 years Member of \"Business Angels Region Stuttgart\" (BARS), experience as an Investor and Business Coach of start-up companies. Senior Advisor at a M&A company (Clairfield International).",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Electronics",
+                        "Lighting and Audio",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "Micro Systems Technologies",
+                        "Production and Mechanical Engineering"
+                ]
+        },
+        {
+                "name": "Dr. Marianne Tümpen",
+                "industry": "IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering/ Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Marianne currently works as a consultant, coach and trainer for Start-ups and SMEs. Before this career step she has been 'Director M&A Subsidiary Management' of Daimler AG. As Head of a corporate venture capital unit she further gained business experience in dealing with innovative young companies mainly in the automotive and financial service environment. This included the recruiting, support and dissolution of portfolio companies on an international bases. Marianne has an educational background in economics and business administration.",
+                "competence": [
+                        "Financial Planning and Fundraising",
+                        "Risk management"
+                ],
+                "focus": [
+                        "Automotive",
+                        "Clean-Tech"
+                ]
+        },
+        {
+                "name": "Mattias Götz",
+                "industry": "IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering/Electronic, Telecommunication, Mechanical Engineering, Mechatronics, Mattias is founder and managing director of WERT8 - a business development and financing advisor for Start-Ups, Small- and Midcaps. Prior to that he managed the IT- and Internet-Investments of one Germanys largest Banks and spent more than 14 years in the German VC scene. Mattias studied business economics in Stuttgart. www.wert8.de",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Risk management",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Measurement Technology",
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "IT Security",
+                        "Infrastructure",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Dr. Michael Lutz",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science Dr. Lutz has many years of experience of successfully establishing and leading innovative biotechnology companies. He has been Chief Executive Officer of LifeCodexx AG since 2010. Since 2005, he has successfully established six international biotech companies and remains active as a senior advisor for other biotech companies, such as Cytena in Freiburg (Germany), among others. Before that, Dr. Lutz spent many years at Novartis Pharma and Evotec in various management positions. He studied chemistry and biochemistry at the Universities of Konstanz (Germany) and Grenoble (France) and received his doctorate in bioorganic chemistry from the ETH Zurich (Switzerland).",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Bio Informatics",
+                        "In-Vitro-Diagnostics",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Pharmaceuticals"
+                ]
+        },
+        {
+                "name": "Michael Steinwand",
+                "industry": "Chemist, PhD • 8 years of successful management of a self-founded consulting firm, Innovendia Consulting, focusing on business development consultancy in the life sciences including medicine • 25 years of experience in international high-tech companies in the life Sciences industry (position: Product Management, Strategic Marketing , Advanced R & D) • 8 years in Innovation and Technology Management and Director of Business Development in the biotech industry (American Group , 4500 employees) • MBA courses at Babson College, Wellesley MA , USA and ETH, Zurich (Innovation Management) • Accredited consultant at bwcon • Partner with international IP consultancies",
+                "competence": [
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Analytics",
+                        "Bio Energy",
+                        "Bio Informatics",
+                        "Environmental Technologies",
+                        "In-Vitro-Diagnostics",
+                        "Industrial Biotechnologies",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Pharmaceuticals",
+                        "Red Biotechnology"
+                ]
+        },
+        {
+                "name": "Reinhard Hamburger",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Reinhard Hamburger was working for Hewlett-Packard and Agilent Technologies for 27 years, most of the time in global business responsibility. During the last years of his career in these global enterprises he was the head of Agilent Germany. 2007 he founded C-FOR-U and is offering business coaching for managing directors of small and medium enterprises in the areas of strategy and leadership. Besides that he is coaching regularly a number of high-tech start-ups in building their business and getting venture capital. He is on the supervisory- and advisory board of a number of companies and is engaged in several non-profit-organizations in Baden-Württemberg. For more information: http://www.c-for-u.de",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Measurement Technology",
+                        "Micro Systems Technologies",
+                        "Semiconductor",
+                        "Analytics",
+                        "Bio Informatics",
+                        "In-Vitro-Diagnostics",
+                        "Laboratory Automation",
+                        "Med-Tech",
+                        "Cloud & Web-Services",
+                        "IT Security",
+                        "Infrastructure",
+                        "Miscellaneous Services",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Richard Winkler",
+                "industry": "IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering/ Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Dipl.-Ing FH, CEO and shareholder W&B MC, board member and advisor, accredited coach Hightech Gründerfonds, IT sytems, software and software development, IT applications and services, communications, business development, organisation, logistics, automotive, smart production",
+                "competence": [
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "IT Security",
+                        "Infrastructure",
+                        "Miscellaneous Services",
+                        "Software",
+                        "Telecommunications",
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Mechatronics",
+                        "Production and Mechanical Engineering"
+                ]
+        },
+        {
+                "name": "Robert Koning",
+                "industry": "Competition Customer Needs Financial Planning and Fundraising Implementation and Planning Market Market Strategy Operations Product Risk management Teambuilding Unique Selling Proposition Focus: Automation and Robotics Automotive Clean-Tech Electronics Industrial Software Solutions Lighting and Audio Measurement",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Clean-Tech",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Lighting and Audio",
+                        "Measurement",
+                        "Mechatronics",
+                        "Production and Mechanical Engineering",
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "Gaming",
+                        "IT Security",
+                        "Infrastructure",
+                        "Miscellaneous Services",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Rolf Beck",
+                "industry": "Industrial Technologies for Example Electrical engineering/Electronic, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Married, two adult kids. > 30 years of management experience in many areas (except logistics and operations) Started a technology venture in industrial optical metrology at age of 26, grew it to ~ 50 people/10 Mio. € incl. buy-outs and buy-ins within 20 years; split it up and sold both parts to a large company (Zeiss) and a SME. Spent 6 years as general manager to integrate the company and successfully ramp it up to a new business segment (>10 Mio. €) of Zeiss. Ran a corporate internal start-up as GM for 6 years. Experience in doing business in US, Japan, China and India (and EU of course) in selling, buying, cooperation. Introduced agile processes (SCRUM, Kanban, extreme p.) to software and mechatronic system development. Hold and participated tons of seminars, workshops and trainings. Among others 1 year Harvard Business School program about corporate culture development (leadership, brands, ...). Offer consulting and coaching since 2015 with focus on disruptive innovation assessment and corporate and venture management coaching. Competition Customer Needs Market Market Strategy Product Risk management Teambuilding Unique Selling Proposition Focus: Industrial Software Solutions Measurement Technology Mechatronics USP: Understanding and experience on both types of business: Small ventures and big traditional companies as one aspect and technic and business (market and finance) as the other pair. Like: Be courageous, don’t complain about errors but learn from them as quick as possible Dislike: Explain what you can read in WIKI. Repeat errors.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Market",
+                        "Market Strategy",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Industrial Software Solutions",
+                        "Measurement Technology",
+                        "Mechatronics"
+                ]
+        },
+        {
+                "name": "Sandra Faillace",
+                "industry": "IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrotechnic/Electronic, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Sandra Faillace is a former international executive (J.W. Thompson, Siemens, HP in Europe, Asia and US), an award-winning serial entrepreneur (MIT, Endeavor, Ministry of Technology Colombia), angel investor and is the Founder of VentureLeague, a global innovation & investor network that facilitates connection, collaboration and growth amongst high-impact entrepreneurs, investors, corporations and ecosystem builders and advises through her strategy & innovation consulting company start-ups, VC funds, corporations and economic development agencies across the Americas & Europe on creating an impactful innovation ecosystem through policies, programs, accelerators and corporate entrepreneurship, providing business development, capacity building & deal flow to some of the most progressive players such as Boston’s MassChallenge, iNNpulsa Colombia, Start-up Chile, Inadem Mexico, eMerge Americas, 500 Start ups Silicon Valley/Mexico, Angel Investor Network Colombia, BMW Foundation, Avina Foundation Brazil, Avianca Airlines Latin America, Citibank, the Inter-American Development Bank and the Ministry of Technology in Colombia to name a few. Furthermore she has led VentureWeeks in Boston, Miami and Colombia as well as Investor delegations for Gov. Patrick (MA), the US State department & the Aspen Institute to create strategic economic development partnerships with Latin America’s emerging markets. As a conscious capitalist Ms. Faillace is part of the BMW’s Foundation Responsible Leaders Network Competition Customer Needs Financial Planning and Fundraising Implementation and Planning Market Market Strategy Operations Pitching and Presentation Support Product Risk management Teambuilding Unique Selling Proposition Focus: Automotive Clean-Tech Cloud & Web-Services Data Analysis Gaming Infrastructure Miscellaneous Services Publishing Software Telecommunications",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automotive",
+                        "Clean-Tech",
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "Gaming",
+                        "Infrastructure",
+                        "Miscellaneous Services",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Stephan Rapp",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science rather partner of the start-up team than coach; 20+ years experience in the life-science industry with 3 CEO positions, Investment Manager in a VC firm and entrepreneur (co-founder of a biotech company)",
+                "competence": [
+                        "Competition",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Med-Tech",
+                        "Pharmaceuticals",
+                        "Red Biotechnology"
+                ]
+        },
+        {
+                "name": "Thomas Keiser",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science Dr. Thomas Keiser is managing partner of Tellur GmbH, Stuttgart, which is active as a project developer for ICT technologies in innovative markets. One focus of the activities is the networking, both in the technical and organizational networks of users and information technology. Dr. Keiser is therefore active as a board member in other networks such as ITS Baden-Württemberg e.V.",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "In-Vitro-Diagnostics",
+                        "Med-Tech",
+                        "Pharmaceuticals"
+                ]
+        },
+        {
+                "name": "Thomas Stoeckel",
+                "industry": "Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Diplom-Kaufmann; Business consultant since 2011; before managing a car company and many years of experience in various management positions in major automotive companies; since 2014 Coach at bwcon",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Financial Planning and Fundraising",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Operations",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Risk management",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Automotive",
+                        "Industrial Software Solutions",
+                        "Production and Mechanical Engineering"
+                ]
+        },
+        {
+                "name": "Ulrich Benz",
+                "industry": "IT (SW/HW/Internet) and creative industries Experience in coaching start-ups and SME's since 12 years. · Account Manager and Sales Manager at Nixdorf Computer AG · Branch Manager and Sales Director at the Storage Technology AG · Business consultant and management partner Sales, marketing and Corporate Development for IT companies · Associated Partner of NewLeafPartners, Swiss Management Forum, Innovation Management, Hitec Consult, LBBW Venture",
+                "competence": [
+                        "Customer Needs",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Unique Selling Proposition"
+                ]
+        },
+        {
+                "name": "Ute Hilmer",
+                "industry": "Life Science/ MedTech for Example Biotech, Medical Engineering, Life Science IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering/Electronics, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other I love to serve my technology and industry clients with my Stuttgart, Germany based consulting firm \"Better Reality\": I turn their customers into raving fans and give meaning to their work. How? Customers turn into raving fans when you understand, what real functional and emotional interests are hidden behind the purchase interest. Build your business model around these interests and needs, enhance this area continuously in product and services and communicate it very well, and your customers will turn into fans and even more, you will find true meaning in your work. A receipt to healthy, substantial growth! So what do I offer, how do I work? My bread and butter is: Business Modelling, Value Proposition, Marketing and Sales Strategy + Planning. With true passion I also work as a personal coach to build true leaders and I confess a special weakness to lead female leaders to absolute success! Competition Customer Needs Implementation and Planning Market Market Strategy Pitching and Presentation Support Product Teambuilding Unique Selling Proposition Focus: Automation and Robotics Electronics Industrial Software Solutions Lighting and Audio Measurement Technology Mechatronics Production and Mechanical Engineering Cloud & Web-Services Data Analysis Gaming IT Security Miscellaneous Services Publishing Software Telecommunications",
+                "competence": [
+                        "Competition",
+                        "Customer Needs",
+                        "Implementation and Planning",
+                        "Market",
+                        "Market Strategy",
+                        "Pitching and Presentation Support",
+                        "Product",
+                        "Teambuilding",
+                        "Unique Selling Proposition"
+                ],
+                "focus": [
+                        "Automation and Robotics",
+                        "Electronics",
+                        "Industrial Software Solutions",
+                        "Lighting and Audio",
+                        "Measurement Technology",
+                        "Mechatronics",
+                        "Production and Mechanical Engineering",
+                        "Cloud & Web-Services",
+                        "Data Analysis",
+                        "Gaming",
+                        "IT Security",
+                        "Miscellaneous Services",
+                        "Publishing",
+                        "Software",
+                        "Telecommunications"
+                ]
+        },
+        {
+                "name": "Wolfgang Vogt",
+                "industry": "IT (SW/HW/Internet) and creative industries Industrial Technologies for Example Electrical engineering/Electronic, Telecommunication, Mechanical Engineering, Mechatronics, Automotive, Clean Tech, Photonics, other Member of the Board at Senioren-der-Wirtschaft (Seniors in Economy). Lectureship in B2B Marketing at ESB Business School, Reutlingen and Lecturer for Service Management and Service Marketing at Duale Hochschule Stuttgart (Cooperative State University). Was Director Strategy & Marketing at IBM. Consults in Business Development, Strategy Development and Marketing incl. Social Media Marketing.",
+                "competence": [
+                  "Competition",
+                  "Customer Needs",
+                  "Market",
+                  "Market Strategy",
+                  "Pitching and Presentation Support",
+                  "Product",
+                  "Teambuilding",
+                  "Unique Selling Proposition"
+                ],
+                "focus": [
+                  "Cloud & Web-Services",
+                  "Data Analysis",
+                  "Infrastructure",
+                  "Software"
+                ]
+              },
+              {
+                "name": "Kamil Barbarski",
+                "industry": "Industrial Technologies, Creative Industries, ICT, Green Tech I'm an entrepreneur and startup community builder from Cologne/Germany. I believe that people should spend their time and money on things that matter. For me entrepreneurship the best ways to do that so I want to make it accessible for everybody. My doing is all about bringing great products to success as efficiently as possible. I'm the co-founder of MAK3it where we connect the strengths of startups and large organizations.",
+                "competence": [
+                  "Customer Needs",
+                  "Market",
+                  "Market Strategy",
+                  "Pitching",
+                  "Lean Startup",
+                  "Design Thinking",
+                  "Teambuilding",
+                  "Unique Selling Proposition"
+                ],
+                "focus": [
+                  "ICT"
+                ]
+              },
+              {
+                "name": "Alexander Berlin",
+                "industry": "Industrial Technologies, Mobility, ICT, Eco-Innovation Alexander Berlin is professional startup developer and investment adviser on the European level. At Media Deals, Alexander works with international business angels, scouts tech and media startups and structures synergetic portfolios for a more risk-hedged investment in the early stage segment. As CEO and Founder of Berlin Thinking Consulting, he provides acceleration service for tech startups in all IoT and ICT sectors that want to grow internationally.",
+                "competence": [
+                  "Customer Needs",
+                  "Access to Finance",
+                  "Venture Capital",
+                  "Business Strategies"
+                ],
+                "focus": [
+                  "Mobility",
+                  "Software"
+                ]
+              },
+              {
+                "name": "Dominique Stroh",
+                "industry": "Creative industries, ICT, Mobility, HR Dominique has worked for more than 10 years as an HR and agile consultant. She has accumulated many years of experience in sales, marketing and HR at various companies. In this context she has also worked also 6 years as head of team. Now she supports start-ups and firms as a trainer, coach und speaker on entrepreneurial and agile methods.",
+                "competence": [
+                  "Customer needs",
+                  "Agile Methods",
+                  "Business Design",
+                  "Lean Startup",
+                  "Blue Ocean",
+                  "New Markets"
+                ],
+                "focus": [
+                  "Design",
+                  "ICT",
+                  "Mobility"
+                ]
+              },
+              {
+                "name": "Miriam Sold",
+                "industry": "Creative industries, ICT, Mobility, Smart Production With diplomas in the fields of Marketing, Creative Industries and Innovation Management Miriam has extensive experience in diverse business disciplines. The combination of knowledge and practice in various industries is accompanied by a good understanding of economic processes, entrepreneurial thinking and profound knowledge in the use of various creative art methods.",
+                "competence": [
+                  "Business Design",
+                  "Lean Startup",
+                  "Blue Ocean",
+                  "New Markets",
+                  "Business Modelling"
+                ],
+                "focus": [
+                  "Design",
+                  "ICT",
+                  "Mobility"
+                ]
+              },
+              {
+                "name": "Alexandra Rudl",
+                "industry": "Health, ICT, Smart Production, Eco-Innovation Alexandra is Head of Innovation Programs at bwcon. Her focus is on fostering technology entrepreneurship and supporting researchers in transferring their research outcomes to the market. She is a certified Effectuation Coach and supports founders and startups in advancing ideas towards sellable products and services. Furthermore, Alexandra is co-founder of the startup dimago and holds entrepreneurship seminars for company and university clients.",
+                "competence": [
+                  "Effectuation",
+                  "Lean Startup",
+                  "Agile Methods",
+                  "Blue Ocean",
+                  "Business Modelling"
+                ],
+                "focus": [
+                  "Health"
+                ]
+              },
+              {
+                "name": "Jenny Bartsch",
+                "industry": "ICT, Smart Production, Green-Tech I am a German attorney specialized in company, IT and Data Protection Law. I mainly support young companies and start-ups with a technological focus with the development and implementation of digital business models like internet platforms, online shops or mobile apps. In addition to my profession, I work as a speaker in the field of Internet, Social Media and Data Protection Law for various organizers.",
+                "competence": [
+                  "Legal advice",
+                  "Legal forms",
+                  "Patents",
+                  "Data protection",
+                  "IPR"
+                ],
+                "focus": [
+                  "ICT"
+                ]
+              },
+              {
+                "name": "Marc König",
+                "industry": "ICT, Smart Production, Mobility, Health, Hardware Marc König is the Head of Coaching and Finance at Bwcon. The team Coaching and Finance is in charge of the incubation and acceleration processes. The activities of the team cover the CyberOne High-tech Award, the EXI High-tech Vouchers Project, as well as the ACE-project. Furthermore, the team organizes special interest groups in the field of Business Coaching, Excubation, and Globalization in the Bwcon Network. The team supports entrepreneurs along the innovation process from their first business idea to the foundation of their own company. Marc is also part of the Advisory Board of various online-startups, and serves in the Assessment Committee of KIC InnoEnergy Germany. Previously, he served as an internal Consultant for early-stage technology venture at Bwcon and was in charge of several projects in the field of high-growth entrepreneurships.",
+                "competence": [
+                  "Business Modelling",
+                  "Financing",
+                  "Marketing",
+                  "Internationalisation"
+                ],
+                "focus": [
+                  "ICT",
+                  "Smart Production"
+                ]
+              },
+              {
+                "name": "Gesa Gudd",
+                "industry": "ICT, Smart Production, Mobility, Health, Hardware Since 2014 Gesa is working at Bwcon in the team Coaching and Finance. At the beginning she managed the ACE project for Bwcon, in which start-ups were supported in internationalization by experienced coaches and mentors. Today Gesa is responsible for supporting start-ups with access to finance. This includes investment forums, individual meetings with investors and the implementation of the CyberOne High-tech Award which is a business plan award for companies in the growth phase.",
+                "competence": [
+                  "Business Modelling",
+                  "Financing",
+                  "Marketing",
+                  "Internationalisation"
+                ],
+                "focus": [
+                  "Mobility",
+                  "ICT"
+                ]
+              },
+              {
+                "name": "Simona Pede",
+                "industry": "Creative Industries, ICT, Eco-Innovation Simona Pede is Innovation Programme Manager at bwcon GmbH, a German service company proving support to start-ups, SMEs and corporates along their innovation value chain. At bwcon she is responsible of designing innovation programme for young talents and early stage start-up teams. In this role, she conceives and organizes hackathons, bootcamps, workshops and summer schools for young entrepreneurs and start-ups covering a wide range of topics from design thinking to business modelling and investor readiness. Simona is particularly focusing on the Lean Start Lean Startup, Customer Development, Prototyping, Business Modelling",
+                "competence": [
+                  "Lean Startup",
+                  "Customer Development",
+                  "Prototyping",
+                  "Business Modelling"
+                ],
+                "focus": [
+                  "Creative Industries",
+                  "ICT"
+                ]
+              }
+]
