@@ -1,6 +1,6 @@
 
-![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*mKmre9aQoAOdsTzbHnXCRA.jpeg)
 
+![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*YU7cYy-HeMpsuQYIO-kHMA.jpeg)
 # Veri İşleme ve Modelleme
 
 Bu proje, çeşitli kaynaklardan elde edilen verileri işleyerek ve BERT modelini kullanarak startup bilgileri ile CV verileri arasındaki uyumu belirlemek için tasarlanmıştır.
@@ -28,6 +28,7 @@ Elde edilen veriler, gereksiz bilgilerden arındırılarak ve doğru formatta d�
 Veri toplama sürecinin ardından elde edilen veriler analiz edilmiş ve model geliştirme aşamasına geçilmiştir.
 
 ## 2. Model Eğitimi ve Değerlendirme Yöntemleri
+![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*mKmre9aQoAOdsTzbHnXCRA.jpeg)
 
 ### 2.1 BERT Modeli Kullanımı
 
