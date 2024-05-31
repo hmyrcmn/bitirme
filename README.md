@@ -17,8 +17,10 @@ CV verileri, belirli bir formatta düzenlenmiş ve JSON dosyalarına dönüştü
 ![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*mKmre9aQoAOdsTzbHnXCRA.jpeg)
 Json formatına dönüştürülen veriler Bert (google nin ) dil modelinde verildi ve ilgili json verileri bert modeli ile vektörleştirildi ve bu vektörler sayısal vektörleşme uygulandı tüm verilere kosinus benzerliği uygulandı bu uygulama sonrasında elde edilen skor her firma için en uygun cv ye sahip kişinin adını ve yüzde üzerinden uygunluk değerine ait skor değerini çıktı olarak almaktayız. 
 Eğitim sırasınd 2 farklı yöntem uygulanmıştır bunları model-1 ve model -2 olarak isimlendirdim.
-![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*8OJyM3xMxCalgwlpPzvxPQ.png)
 # modelin diagramla gösterimi
+
+
+![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*8OJyM3xMxCalgwlpPzvxPQ.png)
 #### Model 1:
 
 BERT modelinin son katmanından (last_hidden_state) elde edilen çıktının ortalamasını kullanır.
@@ -29,8 +31,9 @@ Kodda: outputs.last_hidden_state.mean(dim=1).detach().numpy()
 BERT modelinin belirli bir katmanından (örneğin 11. katman) elde edilen çıktının ortalamasını kullanır.
 Belirli bir katman seçerek, modelin farklı seviyelerdeki özelliklerini kullanabilirsiniz.
 Kodda: outputs.hidden_states[layer_num].mean(dim=1).detach().numpy()
-![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*8OJyM3xMxCalgwlpPzvxPQ.png)
 # modelde kulllanılan kosinus benzerliğinin detaylı gösterimi
+
+![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*8OJyM3xMxCalgwlpPzvxPQ.png)
 ## 3. Kullanım
 1. GOOGLE COLAB da ilgili dosyayı açın ve verilerinizi uygun formatta oluşturun ve düzenleyin ve modele bu verileri sunun çıktıları görütüleyin .
 ## 4. Model 2 nin Sonuçları 
