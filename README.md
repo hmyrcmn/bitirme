@@ -1,5 +1,5 @@
 
-![Proje Logo](https://www.bing.com/images/create/bunu-nlp-bert-modelinin-yaptc4b1c49fc4b1nc4b1-anlatarak-yap-re/1-6659ab9d731949da9c38027e953b6944?id=mKmre9aQoAOdsTzbHnXCRA%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.8rHw03pW2DeWj8cCEIzj&FORM=GCRIDP&mode=overlay)
+![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*mKmre9aQoAOdsTzbHnXCRA.jpeg)
 
 # Veri İşleme ve Modelleme
 
