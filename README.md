@@ -38,4 +38,4 @@ Kodda: outputs.hidden_states[layer_num].mean(dim=1).detach().numpy()
 1. GOOGLE COLAB da ilgili dosyayı açın ve verilerinizi uygun formatta oluşturun ve düzenleyin ve modele bu verileri sunun çıktıları görütüleyin .
 ## 4. Model 2 nin Sonuçları 
 ![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*FLBnhkdkLluJmn8pTeWYkQ.png)
-Bu tabloda selin öztürk cvsine firmaların uygunluklarını belirten skorlar yer almaktadır.
+##### Bu tabloda selin öztürk cvsine firmaların uygunluklarını belirten skorlar yer almaktadır.
