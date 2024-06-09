@@ -20,7 +20,7 @@ CV verileri, belirli bir formatta düzenlenmiş ve JSON dosyalarına dönüştü
 ![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*mKmre9aQoAOdsTzbHnXCRA.jpeg)
 Json formatına dönüştürülen veriler Bert (google nin ) dil modelinde verildi ve ilgili json verileri bert modeli ile vektörleştirildi ve bu vektörler sayısal vektörleşme uygulandı tüm verilere kosinus benzerliği uygulandı bu uygulama sonrasında elde edilen skor her firma için en uygun cv ye sahip kişinin adını ve yüzde üzerinden uygunluk değerine ait skor değerini çıktı olarak almaktayız. 
 Eğitim sırasınd 2 farklı yöntem uygulanmıştır bunları model-1 ve model -2 olarak isimlendirdim.
-# modelin diagramla gösterimi
+# Nodelin Diagramla Gösterimi
 
 
 ![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*8OJyM3xMxCalgwlpPzvxPQ.png)
