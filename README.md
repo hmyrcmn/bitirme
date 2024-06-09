@@ -34,7 +34,7 @@ Kodda: outputs.last_hidden_state.mean(dim=1).detach().numpy()
 BERT modelinin belirli bir katmanından (örneğin 11. katman) elde edilen çıktının ortalamasını kullanır.
 Belirli bir katman seçerek, modelin farklı seviyelerdeki özelliklerini kullanabilirsiniz.
 Kodda: outputs.hidden_states[layer_num].mean(dim=1).detach().numpy()
-# modelde kulllanılan kosinus benzerliğinin detaylı gösterimi
+# Modelde kulllanılan kosinus benzerliğinin detaylı gösterimi
 
 ![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*8OJyM3xMxCalgwlpPzvxPQ.png)
 ## 3. Kullanım
