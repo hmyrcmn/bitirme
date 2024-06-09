@@ -1,6 +1,9 @@
 
-
 ![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*qa1QXLhPeFNexxwIoz9Sgg.jpeg)
+#1.Dil İşleme Destekli CV-Mentör Eşleştirme Sistemi
+
+Kişilerin CV'lerini (özgeçmişlerini) ve startup (girişim) şirketlerinin ihtiyaçlarını karşılaştırarak en uygun eşleşmeyi bulmayı amaçlar. Proje, BERT (Bidirectional Encoder Representations from Transformers) adlı derin öğrenme modelini kullanarak (tekoneler ile ) metin verilerini gömülü vektörlere dönüştürür ve bu vektörler arasındaki benzerliği cosinus benzerliği ile  hesaplar
+
 # 1.1 Veri Toplama Yöntemleri
 
 Proje kapsamında kullanılan veriler, iki farklı kaynaktan elde edilmiştir bunlar startup bilgileri ve CV verileri, json fromatına dönüştürülüne bu veriler githubda startup.json dosyasına kaydedildi ve cv.json dosyalarına veri arttırma işlemi uygulanmış ve modele hazır hale getirildi .
