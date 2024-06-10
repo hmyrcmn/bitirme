@@ -39,8 +39,8 @@ Kodda: outputs.hidden_states[layer_num].mean(dim=1).detach().numpy()
 ![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*8OJyM3xMxCalgwlpPzvxPQ.png)
 ## 3. Kullanım
 1. GOOGLE COLAB da ilgili dosyayı açın ve verilerinizi uygun formatta oluşturun ve düzenleyin ve modele bu verileri sunun çıktıları görütüleyin .
-2.[ Hugging Face deki kullanımı için bağlantı] (https://huggingface.co/hmyrcmn/cvMentorMatch/commit/a9427233de3a8a649ce155275c8ed024528ed17e) yı ziyaret edebilirsiniz.
-Kullanım örneği için [buradaki örnek kodları inceleyebirsiniz ](https://github.com/hmyrcmn/bitirme/blob/main/UploadModelToHuggingFace.ipynb)
+2. [ Hugging Face deki kullanımı için bağlantı] (https://huggingface.co/hmyrcmn/cvMentorMatch/commit/a9427233de3a8a649ce155275c8ed024528ed17e) yı ziyaret edebilirsiniz.
+3. Kullanım örneği için [buradaki örnek kodları inceleyebirsiniz ](https://github.com/hmyrcmn/bitirme/blob/main/UploadModelToHuggingFace.ipynb)
 ## 4. Model 2 nin Sonuçları 
 ![Proje Logo](https://cdn-images-1.medium.com/max/1200/1*FLBnhkdkLluJmn8pTeWYkQ.png)
 ##### Bu tabloda selin öztürk cvsine firmaların uygunluklarını belirten skorlar yer almaktadır.
